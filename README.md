@@ -4,7 +4,7 @@ https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 
 1. Screenshot
 
-![](./smart-contract-deployed.png)
+![](https://github.com/MrBearP/nervos-2/blob/main/smart-contract-deployed.jpg)
 
 2. Transaction hash
 ```
